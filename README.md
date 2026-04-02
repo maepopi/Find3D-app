@@ -1,7 +1,7 @@
 # Find3D: Find Any Part in 3D
 ### ICCV 2025 Highlight✨
 
-> **⚠️ DISCLAIMER:** This enhanced version was created with assistance from Claude AI (GitHub Copilot). The original Find3D model and research remain the work of [Ziqi Ma](https://ziqi-ma.github.io/), [Yisong Yue](http://www.yisongyue.com/), and [Georgia Gkioxari](https://gkioxari.github.io/). Claude enhancements are documented in the "What's New" section below.
+> This fork adds tooling and interfaces on top of the original Find3D research by [Ziqi Ma](https://ziqi-ma.github.io/), [Yisong Yue](http://www.yisongyue.com/), and [Georgia Gkioxari](https://gkioxari.github.io/). New features are documented in the "What's New" section below.
 
 **Find3D: training a model to segment _any_ part in _any_ object based on _any_ text query using 3D assets from the internet**
 
@@ -867,7 +867,7 @@ Original Find3D work:
 
 See LICENSE file for original Find3D license.
 
-Enhancements by Claude AI are provided as-is.
+Fork enhancements are provided as-is.
 
 ---
 
@@ -879,7 +879,7 @@ Enhancements by Claude AI are provided as-is.
 - [Georgia Gkioxari](https://gkioxari.github.io/) - Meta AI
 
 **Enhancements (this fork):**
-- Claude AI with GitHub Copilot
+- [Maëlys Jusseaux](https://github.com/maepopi)
 
 ---
 
